@@ -1,4 +1,4 @@
-const key = "a37b176a749f2dd88fbd69d6940cc0d4"
+const key = "xxxxx"
 
 function botaoClick() {
   let cidade = document.querySelector(".input-cidade").value
